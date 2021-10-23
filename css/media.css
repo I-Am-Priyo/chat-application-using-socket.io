@@ -1,0 +1,27 @@
+@media screen and (max-width: 411px) {
+    .message{
+        width: 52%;
+        margin: 17px -26px;
+    }
+
+}
+@media screen and (max-width: 600px) {
+    .message{
+        width: 52%;
+        margin: 17px -26px;
+    }
+    ::placeholder{
+        font-size: 19px;
+    }
+}
+@media screen and (max-width: 320px) {
+    .container{
+        height: 45vh;
+    }
+    .btn{
+        width: 19%;
+    }
+    h1{
+        font-size: 25px;
+    }
+}

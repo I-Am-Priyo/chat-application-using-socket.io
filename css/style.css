@@ -16,7 +16,8 @@ h1{
     text-align: center;
 }
 .container{
-    background: url('../background3.jpg') no-repeat center center/cover;
+    /* background: url('../background3.jpg') no-repeat center center/cover; */
+    background-color: cadetblue;
     max-width: 955px;
     border: 2px solid black;
     border-radius: 13px;
